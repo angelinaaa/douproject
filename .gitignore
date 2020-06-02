@@ -1,0 +1,5 @@
+# Default ignored files
+/.idea/*
+/target/*
+/debug.log
+/douproject.iml
